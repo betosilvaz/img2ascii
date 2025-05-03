@@ -1,6 +1,6 @@
 <h1 align="center">IMG2ASCII</h1>
 
-<p align="center">a cli utility tool to print images as ascii art</p>
+<p align="center">a CLI utility tool to print images as ascii art</p>
 
 ---
 
